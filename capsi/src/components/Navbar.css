@@ -1,0 +1,86 @@
+nav {
+  background-color: #D98719; /* Dark background */
+  padding: 1rem 2rem; /* Padding top/bottom and left/right */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  border-radius: 8px; /* Rounded corners for the nav bar itself */
+  margin-bottom: 2rem; /* Space below the nav bar */
+  display: flex; /* Use flexbox for alignment */
+  justify-content: center; /* Center the links horizontally */
+  align-items: center; /* Center items vertically */
+  width: 100%; /* Full width */
+  box-sizing: border-box; /* Include padding in width calculation */
+}
+
+/* Styling for the unordered list of navigation links */
+ul {
+  list-style: none; /* Remove bullet points */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  display: flex; /* Use flexbox for horizontal links */
+  flex-wrap: wrap; /* Allow links to wrap on smaller screens */
+  justify-content: center; /* Center links within the list */
+  gap: 1.5rem; /* Space between list items */
+}
+
+/* Styling for individual list items */
+li {
+  margin: 0; /* Ensure no extra margin from list items */
+}
+
+/* Styling for the Link components (which render as <a> tags) */
+a {
+  color: #7093DB; /* A vibrant blue color for links */
+  text-decoration: none; /* Remove underline */
+  font-weight: 600; /* Slightly bolder font */
+  padding: 0.5rem 1rem; /* Padding around the link text */
+  border-radius: 6px; /* Rounded corners for link backgrounds */
+  transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease; /* Smooth transitions for hover effects */
+}
+
+/* Hover effect for links */
+a:hover {
+  background-color: #3a3f47; /* Slightly lighter background on hover */
+  color: #ffffff; /* White text on hover */
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+/* Active link styling (if using NavLink from react-router-dom) */
+/* If you switch from Link to NavLink, you can use this */
+/*
+.active {
+  background-color: #007bff;
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+}
+*/
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  nav {
+    padding: 1rem; /* Reduce padding on smaller screens */
+  }
+
+  ul {
+    flex-direction: column; /* Stack links vertically on smaller screens */
+    align-items: center; /* Center stacked links */
+    gap: 0.8rem; /* Adjust gap for vertical stacking */
+  }
+
+  a {
+    width: 100%; /* Make links take full width when stacked */
+    text-align: center; /* Center text in stacked links */
+  }
+}
+
+@media (max-width: 480px) {
+  nav {
+    padding: 0.8rem;
+  }
+  ul {
+    gap: 0.6rem;
+  }
+  a {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.9rem;
+  }
+}

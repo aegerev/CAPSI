@@ -32,12 +32,6 @@ function App() {
 
       <h2>Why include Canada, the United States, and Mexico?</h2>
           Although Canada, the United States, and Mexico already engage in extensive cross-border trade, they can greatly benefit from the enhanced coordination provided by our IAPs. These are designed for specific industrial systems and geographic regions while maintaining crucial links to related plans, rather than creating isolated solutions. Unlike traditional studies that often remain unused on a shelf, our dynamic process delivers immediate, measurable results through continuous stakeholder engagement. 
-
-      <br/> <br/> <br/>
-
-      <h1>
-        <Link to="/industrial-action-plans">Go to Industrial Action Plans</Link>
-      </h1>
     </>
   )
 }
