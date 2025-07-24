@@ -5,6 +5,7 @@ import './Navbar.css';
 function Navbar() {
   return (
     <nav>
+        <h1>Participation</h1>
       <ul>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/industrial-action-plans">Industrial Action Plans</Link></li>
@@ -12,7 +13,7 @@ function Navbar() {
         <li><Link to="/participation-options">Participation Options</Link></li>
         <li><Link to="/otna-ethics">OTNA Ethics</Link></li>
         <li><Link to="/about">About OnTrackNorthAmerica</Link></li>
-        <li><Link to="/braintrust">Brain Trust</Link></li>
+        <li><Link to="/braintrust">BrainTrust</Link></li>
       </ul>
     </nav>  
     );

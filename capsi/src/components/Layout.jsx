@@ -1,15 +1,15 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
-import Navbar from './Navbar'; // You'll need to create this Navbar component
+import Navbar from './Navbar'; 
 
 function Layout() {
   return (
     <div>
-      <Navbar /> {/* Your navigation bar */}
+      <Navbar /> 
       <main>
-        <Outlet /> {/* This is where the specific page content will be rendered */}
+        <Outlet /> 
       </main>
-      {/* You could add a Footer here if you have one */}
+
     </div>
   );
 }
