@@ -120,6 +120,12 @@ function industrialActionPlans() {
                         <li>FTLUS, Freight Transportation Land Use Strategy</li>
                         <li>RE-BAR, Rail Enabled Brownfield Asset Redevelopment</li>
                 </p>
+
+                <h1>Design</h1> 
+                <h5>What design criteria do we want to set for CAPSI?</h5>
+                <p>Staff Organizers, Facilitators and Participating Stakeholders use IntelliConferences and IntelliSynthesis to uncover breakthrough information on goals and make decisions about next steps. If you would like to help us improve our methods and processes or learn more, and are not yet a registered visitor or registered stakeholder, please visit the <a href='/participation-options'>Participation Options.</a></p>
+
+                <p>If you are already registered you can use the Discussion Tab on this page to make your comments on the following questions. Staff will follow-up with you ASAP.</p>
         </>
     );
 };

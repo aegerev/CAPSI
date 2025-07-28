@@ -1,11 +1,14 @@
-import React from 'react';
+import capsiLogo from '../assets/CAPSI.png'
+
 import { Link } from 'react-router-dom';
 import './Navbar.css'; 
 
 function Navbar() {
   return (
     <nav>
-        <h1>Participation</h1>
+        <a href="#" class="navbar-brand">
+    <img src={capsiLogo} alt="Your Logo" class="navbar-logo"/>
+  </a>
       <ul>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/industrial-action-plans">Industrial Action Plans</Link></li>

@@ -48,6 +48,13 @@ a:hover {
   transform: translateY(-2px); /* Slight lift effect */
 }
 
+.navbar-logo {
+  height: 200px; /* Adjust height as needed */
+  width: auto; /* Maintain aspect ratio */
+  margin-right: 15px; /* Space between logo and first nav item (if they are close) */
+  vertical-align: middle; /* Helps with vertical alignment if it's not a flex container */
+}
+
 /* Active link styling (if using NavLink from react-router-dom) */
 /* If you switch from Link to NavLink, you can use this */
 /*
