@@ -1,7 +1,9 @@
-import React from 'react';
+import VitalRailSpeech from '../assets/Growing Freight - VitalRail Announcement Speech.mp4'
 import '../App.css';
 
 function industrialActionPlans() {
+
+    
 
     return (
         <>
@@ -125,7 +127,211 @@ function industrialActionPlans() {
                 <h5>What design criteria do we want to set for CAPSI?</h5>
                 <p>Staff Organizers, Facilitators and Participating Stakeholders use IntelliConferences and IntelliSynthesis to uncover breakthrough information on goals and make decisions about next steps. If you would like to help us improve our methods and processes or learn more, and are not yet a registered visitor or registered stakeholder, please visit the <a href='/participation-options'>Participation Options.</a></p>
 
-                <p>If you are already registered you can use the Discussion Tab on this page to make your comments on the following questions. Staff will follow-up with you ASAP.</p>
+                <p>If you are already registered you can use the Discussion Tab on <a href='https://capsi.ontracknorthamerica.org/index.php?title=Talk:Industrial_Action_Plans&action=edit&redlink=1'>the CAPSI Website</a> to make your comments on the following questions. Staff will follow-up with you ASAP.</p>
+ {/* find a way to create a forum page for this */}
+                    <h5>What do stakeholders want to add to the CAPSI Ethics and Principles?</h5>
+                    <h5>How do you think stakeholders should address CAPSI and Industry Action Plan goals?</h5>
+                    <h5>What Planning Protocols do stakeholders agree on?</h5>
+                    <h5>What Outcomes do stakeholders envision?</h5>
+                    <h5>What outcomes do we want for the environment?</h5>
+                    <h5>What outcomes do we want for citizens?</h5>
+                    <h5>What outcomes do we want for business?</h5>
+                    <h5>What outcomes do we want for investors?</h5>
+                    <h5>What resources does society need and want to optimize?</h5>
+                    <h5>What goods does society need and want to have available?</h5>
+                    <h5>What Measures of progress do stakeholders want to apply?</h5>
+                
+                <h1>Public-Private Planning</h1> 
+                <p>Providing your input to these questions will be very valuable to all participants. You can answer questions anonymously by sending staff an email. See the <a href='/participation-options'>Participation Options</a>page.</p>
+                    <h5>How do we want planning to support sustainable industrial systems?</h5>
+                    <h5>What benefits do stakeholders want <a href='https://capsi.ontracknorthamerica.org/index.php/Collaborative_Industrial_Optimization'>Collaborative Industrial Optimization</a> to deliver?</h5>
+                    <h5>How do we want public-sector economic development to contribute to sustainable industrial systems?</h5>
+                    <h5>How do we want private-sector commercial activity to align with sustainable industrial systems?</h5>
+                    <h5>How do we want land use decisions to contribute to sustainable industrial systems?</h5>
+                    <h5>How do we want transportation planning to evolve to support sustainable industrial systems?</h5>
+                    <h5>How can academic and commercial research support sustainable industrial systems?</h5>
+                    <h5>What factors do we want to include in assessing the full impact of industrial systems?</h5>
+                    <h5>How must interactions among public and private sector entities evolve to support systemwide sustainability?</h5>
+
+                    <h1>Public-Private Planning</h1> 
+                <p>Providing your input to these questions will be very valuable to all participants. You can answer questions anonymously by sending staff an email. See the <a href='/participation-options'>Participation Options</a>page.</p>
+                    <h5>How do we want planning to support sustainable industrial systems?</h5>
+                    <h5>What benefits do stakeholders want <a href='https://capsi.ontracknorthamerica.org/index.php/Collaborative_Industrial_Optimization'>Collaborative Industrial Optimization</a> to deliver?</h5>
+                    <h5>How do we want public-sector economic development to contribute to sustainable industrial systems?</h5>
+                    <h5>How do we want private-sector commercial activity to align with sustainable industrial systems?</h5>
+                    <h5>How do we want land use decisions to contribute to sustainable industrial systems?</h5>
+                    <h5>How do we want transportation planning to evolve to support sustainable industrial systems?</h5>
+                    <h5>How can academic and commercial research support sustainable industrial systems?</h5>
+                    <h5>What factors do we want to include in assessing the full impact of industrial systems?</h5>
+                    <h5>How must interactions among public and private sector entities evolve to support systemwide sustainability?</h5>
+
+                    <h1>Capital Deployment</h1> 
+                <p>As we address these broader questions we drill down into more detailed questions.</p>
+                    <h5>How do we want capital deployment to support sustainable industrial systems?</h5>
+                    <h5>How do we want investors’ decisions on capital deployment to evolve?</h5>
+                    <h5>How do we want business stakeholders’ approach to capital deployment to evolve?</h5>
+                    <h5>How do we want lenders’ approach to capital deployment to evolve?</h5>
+                    <h5>How do we want public agencies’ approach to capital deployment to evolve?</h5>
+                    <h5>What advantages will Sustainable Systems Capitalization deliver?</h5>
+   
+                    <h1>Geographic Planning Regions</h1> 
+                <p>CAPSI Geographic Planning Regions are local, corridor, state/province, regional/multi-state, national, and continental. Initiatives are cataloged here as they are conceived and advanced by stakeholder groups. You can go to the <a href='https://capsi.ontracknorthamerica.org/index.php/GIS_Planning_Tools'>GIS Planning Tools</a> page for related information.</p>
+                <h2>Local</h2>
+                <h3>Potential</h3>
+                    <h5>OnTrackPhiladelphia</h5>
+                    <h5>OnTrackNevada</h5>
+                    <h5>OnTrackPennsylvania</h5>                
+                <h3>In Development</h3>
+                <h3>In Action</h3>
+
+                <h2>Corridor</h2>
+                <h3>Potential</h3>             
+                <h3>In Development</h3>
+                    <h5>Dallas to Texarkana I30 Corridor Strategy</h5>
+                    <h5>San Francisco Bay ports to Salt Lake City I80 Corridor Strategy</h5>
+                    <h5>San Pedro Bay ports to Salt Lake City I15 Corridor</h5>   
+                <h3>In Action</h3>
+
+                <h2>State/Province</h2>
+                <h3>Potential</h3>
+                    <h4>Canada-13</h4>    
+                        <h5>Alberta</h5> 
+                        <h5>British Columbia</h5>
+                        <h5>British Columbia</h5>
+                        <h5>Manitoba</h5>
+                        <h5>New Brunswick</h5>
+                        <h5>Newfoundland and Labrador</h5>
+                        <h5>Northwest Territories</h5>
+                        <h5>Nova Scotia</h5>
+                        <h5>Nunavut</h5>
+                        <h5>Ontario</h5>
+                        <h5>Prince Edward Island</h5>
+                        <h5>Quebec</h5>
+                        <h5>Saskatchewan</h5>
+                        <h5>Yukon</h5>
+                    <h4>United States-50</h4>
+                        <h5>Alabama</h5>
+                        <h5>Alaska</h5>
+                        <h5>Arizona</h5>
+                        <h5>Arkansas</h5>
+                        <h5>California</h5>
+                        <h5>Colorado</h5>
+                        <h5>Connecticut</h5>
+                        <h5>Delaware</h5>
+                        <h5>Florida</h5>
+                        <h5>Georgia</h5>
+                        <h5>Hawaii</h5>
+                        <h5>Idaho</h5>
+                        <h5>Illinois</h5>
+                        <h5>Indiana</h5>
+                        <h5>Iowa</h5>
+                        <h5>Kansas</h5>
+                        <h5>Kansas</h5>
+                        <h5>Kentucky</h5>
+                        <h5>Louisiana</h5>
+                        <h5>Maine</h5>
+                        <h5>Maryland</h5>
+                        <h5>Massachusetts</h5>
+                        <h5>Michigan</h5>
+                        <h5>Minnesota</h5>
+                        <h5>Mississippi</h5>
+                        <h5>Missouri</h5>
+                        <h5>Mississippi</h5>
+                        <h5>Montana</h5>
+                        <h5>Nebraska</h5>
+                        <h5>Nevada</h5>
+                        <h5>New Hampshire</h5>
+                        <h5>New Jersey</h5>
+                        <h5>New Mexico</h5>
+                        <h5>New York</h5>
+                        <h5>North Carolina</h5>
+                        <h5>North Dakota</h5>
+                        <h5>Ohio</h5>
+                        <h5>Oklahoma</h5>
+                        <h5>Oregon</h5>
+                        <h5>Pennsylvania</h5>
+                        <h5>Rhode Island</h5>
+                        <h5>South Carolina</h5>
+                        <h5>South Dakota</h5>
+                        <h5>Tennessee</h5>
+                        <h5>Texas</h5>
+                        <h5>Utah</h5>
+                        <h5>Vermont</h5>
+                        <h5>Virginia</h5>
+                        <h5>Washington</h5>
+                        <h5>West Virginia</h5>
+                        <h5>Wisconsin</h5>
+                        <h5>Wyoming</h5>
+                    <h4>Mexico-32</h4>
+                        <h5>Aguascalientes</h5>
+                        <h5>Baja California</h5>
+                        <h5>Baja California Sur</h5>
+                        <h5>Campeche</h5>
+                        <h5>Chiapas</h5>
+                        <h5>Chihuahua</h5>
+                        <h5>Coahuila</h5>
+                        <h5>Colima</h5>
+                        <h5>Durango</h5>
+                        <h5>Guanajuato</h5>
+                        <h5>Guerrero</h5>
+                        <h5>Hidalgo</h5>
+                        <h5>Jalisco</h5>
+                        <h5>México</h5>
+                        <h5>México City</h5>
+                        <h5>Michoacán</h5>
+                        <h5>Morelos</h5>
+                        <h5>Nayarit</h5>
+                        <h5>Nuevo León</h5>
+                        <h5>Puebla</h5>
+                        <h5>Oaxaca</h5>
+                        <h5>Querétaro</h5>
+                        <h5>Quintana Roo</h5>
+                        <h5>San Luis Potosí</h5>
+                        <h5>Sinaloa</h5>
+                        <h5>Sonora</h5>
+                        <h5>Tabasco</h5>
+                        <h5>Tamaulipas</h5>
+                        <h5>Tlaxcala</h5>
+                        <h5>Veracruz</h5>
+                        <h5>Yucatán</h5>
+                        <h5>Zacatecas</h5>                        
+                <h3>In Development</h3>
+                    <h5>OnTrackNevada</h5>
+                    <h5>OnTrackPennsylvania</h5>
+                <h3>In Action</h3>
+
+                <h2>Regional/Multi-state</h2>
+                <h3>Potential</h3>   
+                    <h5>Southeast Supply Chain Coalition</h5>          
+                <h3>In Development</h3>
+                    <h5>Southwest Supply Chain Coalition</h5>
+                <h3>In Action</h3>
+
+                <h2>Regional/Multi-state</h2>
+                <h3>Potential</h3>   
+                    <h5>Southeast Supply Chain Coalition</h5>          
+                <h3>In Development</h3>
+                    <h5>Southwest Supply Chain Coalition</h5>
+                <h3>In Action</h3>
+
+                <h2>National</h2>
+                <h3>Potential</h3>   
+                    <h5>OnTrackMexico</h5>     
+                    <h5>OnTrackCanada</h5>          
+                    <h5>OnTrackUS</h5>               
+                <h3>In Development</h3>
+                <h3>In Action</h3>
+
+                <h2>Continental</h2>        
+                    <h5>OnTrackNorthAmerica</h5>               
+
+            <h1>Timeline</h1>
+
+            <p>April 8, 2025 - CAPSI and VitalRail public introduction</p>
+            <video controls width="50%" className="videoPlayer" src={VitalRailSpeech}></video>
+            <p>May to July 2025 - VitalRail Launch</p>
+            <p>April 2026 - New Industry Action Plans launched</p>
+            <p>April 2027 - Continued launch of Industry Action Plans and introduction of new CAPSI collaboration tools and methods.</p>
         </>
     );
 };
