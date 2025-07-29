@@ -2,9 +2,6 @@ import VitalRailSpeech from '../assets/Growing Freight - VitalRail Announcement 
 import '../App.css';
 
 function industrialActionPlans() {
-
-    
-
     return (
         <>
             <h1>Industrial Action Plans</h1>
