@@ -80,7 +80,9 @@ function vitalRail() {
 
                 <br/> <br/>
 
-                
+                The challenge is not a lack of intelligence; there are many smart and committed people in industry, government, and the community. What we have been lacking are the effective forums and methods for gathering this intelligence into smart policy, programs, and marketplace improvements. CAPSI provides that platform.
+
+                Learn more about the <a href='https://capsi.ontracknorthamerica.org/index.php/VitalRail/VitalRail_Value_Proposition'>VitalRail Value Proposition.</a>
             </p>
         </>
 
