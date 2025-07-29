@@ -1,5 +1,5 @@
 nav {
-  background-color: #D98719; 
+  background-color: #FFFF00; 
   padding: 1rem 2rem; 
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
   border-radius: 8px; 
@@ -43,7 +43,7 @@ a {
 
 /* Hover effect for links */
 a:hover {
-  background-color: #3a3f47; /* Slightly lighter background on hover */
+  background-color: #FF2400; /* Slightly lighter background on hover */
   color: #ffffff; /* White text on hover */
   transform: translateY(-2px); /* Slight lift effect */
 }

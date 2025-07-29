@@ -18,7 +18,6 @@ function Navbar() {
         <li><Link to="/otna-ethics">OTNA Ethics</Link></li>
         <li><Link to="/about">About OnTrackNorthAmerica</Link></li>
         <li><Link to="/braintrust">BrainTrust</Link></li>
-        
       </ul>
 
     </nav>
